@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-    <title>Insert web page title here</title>
+    <title>osucyclonecowboys.com</title>
     <meta name="generator" content="thesitewizard.com's Layout Wizard 3.0.1">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" media="all" href="styles.css">
@@ -23,8 +23,8 @@
             <li><a href="http://www.osucyclonecowboys.com/feedback.html">Contact</a></li>
           </ul>
         </div>
-        <p>&nbsp;<img src="file:///C:/Users/adria/Documents/GitHub/natelannan-osu.github.io/images/Untitled%20design.png"
-            alt="cyclone cowboy logo round" style="width: 145px; height: 145px;"></p>
+        <p>&nbsp;<img src="file:///C:/Users/adria/Documents/GitHub/natelannan-osu.github.io/images/CCRoundLogo.png"
+            alt="cyclone cowboy round logo"></p>
         <!-- end of header section: insert your logo, etc, above this line --> </div>
       <div id="tswcontent">
         <div id="tswcontproper">
@@ -101,8 +101,8 @@
         <p style="margin-left: 40px;">Keep up to date with our socials!</p>
         <p style="margin-left: 40px;">[insert socials, instagram, linkedin,
           facebook, etc]</p>
-        <div style="text-align: center; margin-left: 40px;"><img src="file:///C:/Users/adria/Documents/GitHub/natelannan-osu.github.io/images/Untitled%20design.png"
-            alt="cyclone cowboy logo round" id="img"></div>
+        <div style="text-align: center;"><img src="file:///C:/Users/adria/Documents/GitHub/natelannan-osu.github.io/images/CCRoundLogo.png"
+            alt="cyclone cowboy round logo"></div>
         <p style="margin-left: 40px;">[maybe our address, email address, and
           phone number?]</p>
         <!-- end of footer section: insert your copyright notice, etc, above this line -->
