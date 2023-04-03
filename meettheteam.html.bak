@@ -16,10 +16,8 @@
           <ul>
             <li><a href="http://www.osucyclonecowboys.com/learnmore.html">Learn
                 More</a></li>
-            <li><a href="http://www.osucyclonecowboys.com/meettheteam.html">Meet
-                the Team</a></li>
-            <li><a href="http://www.osucyclonecowboys.com/teamhistory.html">Team
-                History</a></li>
+            <li><a href="meettheteam.html">Meet the Team</a></li>
+            <li><a href="/teamhistory.html">Team History</a></li>
             <li><a href="http://www.osucyclonecowboys.com/feedback.html">Contact</a></li>
           </ul>
         </div>
@@ -29,8 +27,7 @@
         <div id="tswcontproper">
           <!-- start of content column: insert your content here -->
           <h1 style="text-align: center;">Meet the Cyclone Cowboys!</h1>
-          <div style="text-align: center;"><img src="images/WholeTeamPhotoSpring2023.JPG"
-
+          <div style="text-align: center;"><img src="images/WholeTeamPhotoSpring2023.JPG"
               alt="ccwholeteamphoto" style="width: 692px; height: 432px;"></div>
           <div style="text-align: center; margin-left: 40px;"><br>
           </div>
@@ -468,8 +465,7 @@
         <p style="margin-left: 40px;">Keep up to date with our socials!</p>
         <p style="margin-left: 40px;">[insert socials, instagram, linkedin,
           facebook, etc]</p>
-        <div style="text-align: center;"><a href="index.html"><img src="images/CCRoundLogo.png"
-
+        <div style="text-align: center;"><a href="index.html"><img src="images/CCRoundLogo.png"
               alt="cyclone cowboy round logo"></a></div>
         <p style="margin-left: 40px;">[maybe our address, email address, and
           phone number?]</p>
