@@ -49,8 +49,8 @@
             and LinkedIn for the Cyclone Cowboys. On January 30th, we ended up
             rounding the whole team from each subcategory, which made the
             Instagram.&nbsp;</p>
-          <p style="margin-left: 40px;"><br>
-          </p>
+        </div>
+        <div><br>
           <h4 style=" margin-left: 40px;">February 6, 2023 to February 10, 2023</h4>
           <h5 style="margin-left: 40px;">Project Development</h5>
           <p style="margin-left: 40px;">We have two new Furrow simulations near
@@ -80,8 +80,6 @@
             prepping for the CDR. </p>
           <h5 style="margin-left: 40px;"><br>
           </h5>
-          <h5 style="margin-left: 40px;"><br>
-          </h5>
           <h4 style=" margin-left: 40px;">February 13, 2023 to February 17, 2023</h4>
           <h5 style="margin-left: 40px;">Project Development</h5>
           <p style="margin-left: 40px;">Progress in financial analysis and wind
@@ -97,9 +95,11 @@
             engineers to come up with an anchor design. Also edited blade tips
             to adapt to each other. </p>
           <h5 style="margin-left: 40px;">Outreach Team</h5>
-          <p style="margin-left: 40px;">TBH</p>
-          <h5 style="margin-left: 40px;"><br>
-          </h5>
+          <p style="margin-left: 40px;">We created a Facebook and LinkedIn for
+            the Cyclone Cowboys, as well as a Campus Link where we had all our
+            members join the Campus Link and follow the new social media we
+            created. We created and posted 3 social media posts on all 3 of our
+            social media sites and began prepping for the CDR. </p>
           <h5 style="margin-left: 40px;"><br>
           </h5>
           <h4 style=" margin-left: 40px;">February 20, 2023 to February 24, 2023</h4>
@@ -115,39 +115,157 @@
             of it. Began assembling the driveline, nacelle, and blades. Also got
             ready for the CDR and are ever close to testing!</p>
           <h5 style=" margin-left: 40px;">Outreach Team</h5>
-          <p style="margin-left: 40px;">TBH</p>
+          <p style="margin-left: 40px;">We created a Facebook and LinkedIn for
+            the Cyclone Cowboys, as well as a Campus Link where we had all our
+            members join the Campus Link and follow the new social media we
+            created. We created and posted 3 social media posts on all 3 of our
+            social media sites and began prepping for the CDR. </p>
           <p style="margin-left: 40px;"><br>
           </p>
-          <p><br>
+          <h4 style=" margin-left: 40px;">February 27, 2023 to March 3, 2023</h4>
+          <h5 style=" margin-left: 40px;">Project Development</h5>
+          <p style="margin-left: 40px;">Finished CDR, need to get standards and
+            hear back from other teams about turbine data. All was completed. </p>
+          <h5 style=" margin-left: 40px;">Turbine Design</h5>
+          <p style="margin-left: 40px;">We tested sensors and narrowed down buck
+            boost options. Hoping to code teensy soon and get parts tested and
+            installed. Finsihed CDR and had the presentation for it. Need to get
+            blades tested in wind tunnel and to get driveline rotationally
+            tested. </p>
+          <h5 style=" margin-left: 40px;">Outreach Team</h5>
+          <p style="margin-left: 40px;">We created and posted 1 social media
+            post about the members of the Outreach Team.</p>
+          <p style="margin-left: 40px;"><br>
           </p>
-          <p><br>
+          <h4 style=" margin-left: 40px;">March 6, 2023 to March 10, 2023</h4>
+          <h5 style=" margin-left: 40px;">Project Development</h5>
+          <p style="margin-left: 40px;">Assign standards to be read. Need to
+            find new wind turbines for analysis. Need to complete/start hub
+            height analysis and find an answer for distance from a pipeline.</p>
+          <h5 style=" margin-left: 40px;">Turbine Design</h5>
+          <p style="margin-left: 40px;">Continued testing: driveline has been
+            tested and we have finalized plans for how we are going to test it
+            in the wind tunnel. We want to get blade analysis done with QBlade
+            software soon. Tested the torque required to move the driveline.
+            Learned that we need to offload our power generated when doing our
+            blade tests which lead to meeting a PhD student, John Johnsen, to
+            discuss how to use the wind tunnel well. Met with electrical team to
+            test VC sensors and calculate minimum required resistance based off
+            our power calculations. We modified the Nacelle by drilling holes
+            into it for the motor and break system, then assembled it with the
+            break and motor components. Anchor has been built.</p>
+          <h5 style=" margin-left: 40px;">Outreach Team</h5>
+          <p style="margin-left: 40px;">We created and posted one social media
+            post about the members of the Outreach Team. </p>
+          <p style="margin-left: 40px;"><br>
           </p>
-          <p><br>
+          <h4 style=" margin-left: 40px;">March 20, 2023 to March 24, 2023</h4>
+          <h5 style=" margin-left: 40px;">Project Development</h5>
+          <p style="margin-left: 40px;">Organize the team and assign work to all
+            people. Civils are creating site development plans. Calvin is
+            started a financial report. Brady is learning SAM and Tucker is
+            researching environmental date. Hunter is analyzing new wind
+            turbines in the furrow.</p>
+          <h5 style=" margin-left: 40px;">Turbine Design</h5>
+          <p style="margin-left: 40px;">Anchor testing completed and blades were
+            tested. The week basically led up to testing the blades. A buck
+            booster has been selected and possibly ordered. </p>
+          <h5 style=" margin-left: 40px;">Outreach Team</h5>
+          <p style="margin-left: 40px;">TBD</p>
+          <p style="margin-left: 40px;"><br>
           </p>
-          <div style="text-align: center; margin-left: 40px;"><br>
+          <h4 style=" margin-left: 40px;">March 27, 2023 to March 31, 2023</h4>
+          <h5 style=" margin-left: 40px;">Project Development</h5>
+          <p style="margin-left: 40px;">Make sure everyone is making progress on
+            tasks and create new Furrow simulations for analysis. Had to help
+            Civils with something for their class and got that completed. Ran
+            into more issues with Furrow but I am working on it now. Learned how
+            to import wind farm layout into SAM. Looking for more turbine files
+            for analysis. Calvin stated writing a rough financial report. </p>
+          <h5 style=" margin-left: 40px;">Turbine Design</h5>
+          <p style="margin-left: 40px;">Tail was redesigned and blades are
+            wanted to be optimized and reprinted. The newest version of the
+            nacelle has been manufactured; body and driveline also assembled.
+            Electrical resistive network schematic has been drawn and should be
+            manufactured soon. New body was printed and tested, servo also
+            tested to see how well it breaks. </p>
+          <h5 style=" margin-left: 40px;">Outreach Team</h5>
+          <div style="margin-left: 40px;">
+            <p>TBD</p>
+            <p><br>
+            </p>
+            <h4>April 3, 2023 to April 7, 2023</h4>
+            <h5>Project Development</h5>
+            <p>TBD</p>
+            <h5>Turbine Design</h5>
+            <p>Manufactured blade versions 5-8 and more blade tests. Load
+              electronics are being worked on. Converter circuit design has been
+              finalized and parts ordered. First pass of code for current
+              sensor/test has been completed. Sub-assembly report has been
+              turned in. </p>
+            <h5>Outreach Team</h5>
+            <p>TBD</p>
           </div>
+          <p><br>
+          </p>
+          <h4 style=" margin-left: 40px;">April 10, 2023 to April 14, 2023</h4>
+          <h5 style=" margin-left: 40px;">Project Development</h5>
+          <p style="margin-left: 40px;">TBD</p>
+          <h5 style=" margin-left: 40px;">Turbine Design</h5>
+          <p style="margin-left: 40px;">Subassembly report for CWC turned in.
+            Wanted to perform more blade tests but printing had issues. Stress
+            tests have shown that the blades can withstand up to 3000 RPM which
+            gives us confidence for future wind tunnel testing. Mechanical
+            systems have been assembled. Tested yaw system and printed new
+            strong blades. Did rotational stress test and axial bending test.
+            Print of TSR3 was done. Made a new design of TSR 2.8. Board printed
+            for buck booster. Ordered converter circuit. Sensor and servo were
+            also tested. Passed safety inspection for basic passive load.
+            Driveline has been modified. </p>
+          <h5 style=" margin-left: 40px;">Outreach</h5>
+          <p style="margin-left: 40px;">TBD</p>
+          <div style="margin-left: 40px;"> </div>
+          <p style="margin-left: 40px;"><br>
+          </p>
+          <div style="margin-left: 40px;"> </div>
+          <p style="margin-left: 40px;"><br>
+          </p>
+          <div style="margin-left: 40px;"> </div>
+          <div style="text-align: center; margin-left: 80px;"><br>
+          </div>
+          <div style="margin-left: 40px;"> </div>
         </div>
+        <div style="margin-left: 120px;"><br>
+        </div>
+        <div style="margin-left: 40px;"> </div>
+        <div style="margin-left: 80px;"> </div>
+        <div style="margin-left: 40px;"> </div>
+        <div style="text-align: center; margin-left: 80px;"><br>
+        </div>
+        <div style="margin-left: 40px;"> </div>
         <div style="margin-left: 80px;"><br>
         </div>
         <div style="margin-left: 40px;"> </div>
-        <div style="text-align: center; margin-left: 40px;"><br>
-        </div>
-        <div style="margin-left: 40px;"><br>
-        </div>
         <div>
-          <div style="margin-left: 40px;"><br>
+          <div style="margin-left: 80px;"><br>
           </div>
-          <div style="margin-left: 40px;"><br>
+          <div style="margin-left: 40px;"> </div>
+          <div style="margin-left: 80px;"><br>
           </div>
-          <br>
-          <div style="margin-left: 40px;"><br>
+          <div style="margin-left: 40px;"> <br>
           </div>
-          <div style="margin-left: 40px;"><br>
+          <div style="margin-left: 80px;"><br>
           </div>
-          <div style="margin-left: 40px;"><br>
+          <div style="margin-left: 40px;"> </div>
+          <div style="margin-left: 80px;"><br>
           </div>
-          <div style="margin-left: 40px;"><br>
+          <div style="margin-left: 40px;"> </div>
+          <div style="margin-left: 80px;"><br>
           </div>
+          <div style="margin-left: 40px;"> </div>
+          <div style="margin-left: 80px;"><br>
+          </div>
+          <div style="margin-left: 40px;"> </div>
           <div style="margin-left: 40px;"><br>
           </div>
           <div style="margin-left: 40px;"><br>
@@ -183,14 +301,17 @@
       <div style="clear: both;"></div>
       <div id="tswfooter">
         <!-- start of footer section: insert your copyright notice, etc, here -->
-        <p style="margin-left: 40px;">[insert catchy tagline]</p>
+        <h3 style=" margin-left: 40px;">Wind Energy Keeps our World Spinning!</h3>
+        <p style="margin-left: 40px;"></p>
         <p style="margin-left: 40px;">Keep up to date with our socials!</p>
-        <p style="margin-left: 40px;">[insert socials, instagram, linkedin,
-          facebook, etc]</p>
+        <div style="margin-left: 40px;"><img src="images/instagram%20logo.png" alt="instagram logo"
+            style="width: 70px; height: 70px;"><img src="images/facebook-logo-png-2320.png"
+            alt="facebook logo" style="width: 131px; height: 70px;"><img src="images/linkedin%20logo.png"
+            alt="linkedin logo" style="width: 73px; height: 70px;"></div>
         <div style="text-align: center;"><a href="index.html"><img src="images/CCRoundLogo.png"
               alt="cyclone cowboy round logo"></a></div>
-        <p style="margin-left: 40px;">[maybe our address, email address, and
-          phone number?]</p>
+        <p style="margin-left: 40px;"><br>
+        </p>
         <!-- end of footer section: insert your copyright notice, etc, above this line -->
       </div>
     </div>

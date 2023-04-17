@@ -17,7 +17,7 @@
             <li><a href="http://www.osucyclonecowboys.com/learnmore.html">Learn
                 More</a></li>
             <li><a href="meettheteam.html">Meet the Team</a></li>
-            <li><a href="/teamhistory.html">Team History</a></li>
+            <li><a href="teamhistory.html">Team History</a></li>
             <li><a href="http://www.osucyclonecowboys.com/feedback.html">Contact</a></li>
           </ul>
         </div>
@@ -461,14 +461,16 @@
       <div style="clear: both;"></div>
       <div id="tswfooter">
         <!-- start of footer section: insert your copyright notice, etc, here -->
-        <h3 style=" margin-left: 40px;">Wind Energy Keeps our World Spinning</h3>
+        <h3 style=" margin-left: 40px;">Wind Energy Keeps our World Spinning!</h3>
         <p style="margin-left: 40px;">Keep up to date with our socials!</p>
-        <p style="margin-left: 40px;">[insert socials, instagram, linkedin,
-          facebook, etc]</p>
+        <div style="margin-left: 40px;"> <img src="images/instagram%20logo.png"
+            alt="instagram logo" style="width: 84px; height: 84px;"><img src="images/facebook-logo-png-2320.png"
+            alt="facebook logo" style="width: 141px; height: 84px;"><img src="images/linkedin%20logo.png"
+            alt="linkedin logo" style="width: 87px; height: 84px;"> </div>
         <div style="text-align: center;"><a href="index.html"><img src="images/CCRoundLogo.png"
               alt="cyclone cowboy round logo"></a></div>
-        <p style="margin-left: 40px;">[maybe our address, email address, and
-          phone number?]</p>
+        <p style="margin-left: 40px;"><br>
+        </p>
         <!-- end of footer section: insert your copyright notice, etc, above this line -->
       </div>
     </div>
