@@ -80,9 +80,8 @@
           </div>
           <div style="margin-left: 40px;"><br>
           </div>
-          <p style="margin-left: 40px;"> And if you want a contact form (ie, one
-            that your visitors can use to reach you), go to the <a href="https://www.thesitewizard.com/wizards/feedbackform.shtml">Feedback
-              Form Wizard</a> to create one. Yes, it's free too. </p>
+          <p style="margin-left: 40px;"><br>
+          </p>
           <br>
           <p>&nbsp;</p>
           <!-- end of content column: put your content above this line --> </div>
@@ -100,10 +99,13 @@
         <!-- start of footer section: insert your copyright notice, etc, here -->
         <h3 style=" margin-left: 40px;">Wind Energy Keeps our World Spinning!</h3>
         <p style="margin-left: 40px;">Keep up to date with our socials!</p>
-        <div style="margin-left: 40px;"> <img src="images/instagram%20logo.png"
-            alt="instagram logo" style="width: 70px; height: 70px;"><img src="images/facebook-logo-png-2320.png"
-            alt="facebook logo" style="width: 131px; height: 70px;"><img src="images/linkedin%20logo.png"
-            alt="linkedin logo" style="width: 73px; height: 70px;"> </div>
+        <div style="margin-left: 40px;"> <a href="https://www.instagram.com/osu_cyclonecowboys/"><img
+              src="images/instagram%20logo.png" alt="instagram logo" style="width: 57px; height: 54px;"></a><a
+            href="https://www.facebook.com/profile.php?id=100090001531286"><img
+              src="images/facebook-logo-png-2320.png" alt="facebook logo" style="width: 107px; height: 54px;"></a><a
+            href="https://www.linkedin.com/company/cyclone-cowboys/people/"><img
+              src="images/linkedin%20logo.png" alt="linkedin logo" style="width: 57px; height: 54px;"></a>
+        </div>
         <div style="text-align: center;"><a href="index.html"><img src="images/CCRoundLogo.png"
               alt="cyclone cowboy round logo"></a></div>
         <p style="margin-left: 40px;"><br>
