@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-    <title>osucyclonecowboys.com</title>
+    <title>Feedback</title>
     <meta name="generator" content="thesitewizard.com's Layout Wizard 3.0.1">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" media="all" href="styles.css">
@@ -20,62 +20,57 @@
                   the Team</a></span></li>
             <li><span style="font-family: Trebuchet MS;"><a href="teamhistory.html">Team
                   History</a></span></li>
-            <li><span style="font-family: Trebuchet MS;"><a href="feedback.html">Contact</a></span></li>
+            <li><span style="font-family: Trebuchet MS;"><a href="http://www.osucyclonecowboys.com/feedback.html">Contact</a></span></li>
           </ul>
         </div>
         <p>&nbsp;<a href="index.html"><img src="images/CCRoundLogo.png" alt="cyclone cowboy round logo"></a></p>
         <!-- end of header section: insert your logo, etc, above this line --> </div>
-      <div id="tswcontent">
-        <div id="tswcontproper">
-          <!-- start of content column: insert your content here -->
-          <h1 style="text-align: center; margin-left: 40px;"><span style="font-family: Gloucester MT;"><br>
-            </span> </h1>
-          <span style="font-family: Gloucester MT;"> </span>
-          <h1 style="text-align: center; margin-left: 40px;"><span style="font-family: Nirmala UI;"><span><span><span>Welcome
-                    to the home of OSU's Cyclone Cowboys!</span></span></span></span></h1>
-          <div style="text-align: center; margin-left: 40px;"><span style="font-family: Tahoma;">In
-              our website, we have a log of our progress so you can keep up with
-              our progress! We're excited to go to competition as a first year
-              competitor! Our website is under construction so be patient!</span></div>
-          <span style="font-family: Trebuchet MS;"> </span>
-          <div style="text-align: center; margin-left: 40px;"><br>
-          </div>
-        </div>
-        <div style="margin-left: 80px;"><br>
-        </div>
-        <div style="margin-left: 40px;"> </div>
-        <div style="text-align: center; margin-left: 40px;"><img src="images/CWC%20Sign%20Design%20%281%29.jpeg"
+      <div id="tswcontent"><label for="tswname"></label><br>
+        <label for="tswname"></label>
+        <div style="text-align: center;">
+          <form action="feedback.php" method="post" id="tswfbform" accept-charset="UTF-8"><label
 
-            alt="cyclonecowboy sign design" style="width: 592px; height: 332px;"></div>
-        <div style="margin-left: 40px;"><br>
-        </div>
+              for="tswname">Fill out this form if you have any questions,
+              concerns, or comments!<br>
+              <br>
+              Name</label> <input name="fullname" style="max-width: 100%; width: 40%;"
+
+              id="tswname" size="39" type="text"><br>
+            &nbsp;<br>
+            <label for="tswemail">Email</label> <input style="max-width: 100%; width: 30%;"
+
+              id="tswemail" name="email" size="39" type="text"><br>
+            &nbsp;<br>
+            <label for="tswcomments">Comments</label><br>
+            &nbsp;<br>
+            <textarea rows="15" cols="45" name="comments" style="max-width: 100%;"
+
+id="tswcomments"></textarea> <br>
+            &nbsp;<br>
+            <input id="tswsubmit" value="Submit" type="submit"> </form>
+          <br>
+          <!-- start of content column: insert your content here --></div>
         <div>
-          <div style="margin-left: 40px;"><br>
+          <div style="margin-left: 40px; text-align: left;"><br>
           </div>
-          <div style="margin-left: 40px;"><br>
+          <div style="margin-left: 40px; text-align: center;"><br>
           </div>
-          <div style="margin-left: 40px;">
-            <h2 style="text-align: center;"><span style="font-family: Nirmala UI;">Learn
-                More About What We Do!</span></h2>
-            <span style="font-family: Nirmala UI;"> </span></div>
-          <span style="font-family: Nirmala UI;"> </span>
-          <div style="margin-left: 40px;"><span style="font-family: Nirmala UI;">
-            </span>
-            <h4 style="text-align: center;"><span style="font-family: Nirmala UI;">Who
-                are we and what do we do? Learn much about our team and our
-                advancements.</span></h4>
+          <div style="margin-left: 40px; text-align: center;"><br>
           </div>
-          <div style="margin-left: 40px; text-align: center;"> <a href="file:///C:/Users/adria/Documents/GitHub/natelannan-osu.github.io/learnmore.html"><img
-
-                src="images/Wind%20Turbine%20CFD%20Image.png" alt="WindTurbine"
-
-                style="width: 227px; height: 216px; margin-right: 25px;"></a><a
-
-              href="learnmore.html"><img src="images/Turbine%20at%20Expo.jpeg" alt="Turbine at Exo"
-
-                style="width: 220px; height: 216px; margin-right: 25px;"><img src="images/DOEVisit.JPG"
-
-                alt="DOE Visit" style="width: 280px; height: 215px;"></a></div>
+          <div style="margin-left: 40px; text-align: center;"><br>
+          </div>
+          <div style="margin-left: 40px; text-align: center;"><br>
+          </div>
+          <div style="margin-left: 40px; text-align: center;"><br>
+          </div>
+          <div style="margin-left: 40px; text-align: center;"><br>
+          </div>
+          <div style="margin-left: 40px; text-align: center;"><br>
+          </div>
+          <div style="margin-left: 40px; text-align: center;"><br>
+          </div>
+          <div style="margin-left: 40px; text-align: center;"><br>
+          </div>
           <div style="margin-left: 40px; text-align: center;"><br>
           </div>
           <div style="margin-left: 40px;"><br>
