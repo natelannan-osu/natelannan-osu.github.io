@@ -28,51 +28,25 @@
       <div id="tswcontent"><label for="tswname"></label><br>
         <label for="tswname"></label>
         <div style="text-align: center;">
-          <form action="feedback.php" method="post" id="tswfbform" accept-charset="UTF-8"><label
-
+          <form action="feedback.php" method="post" id="tswfbform" accept-charset="UTF-8"><label
               for="tswname">Fill out this form if you have any questions,
               concerns, or comments!<br>
               <br>
-              Name</label> <input name="fullname" style="max-width: 100%; width: 40%;"
-
+              Name</label> <input name="fullname" style="max-width: 100%; width: 40%;"
               id="tswname" size="39" type="text"><br>
             &nbsp;<br>
-            <label for="tswemail">Email</label> <input style="max-width: 100%; width: 30%;"
-
+            <label for="tswemail">Email</label> <input style="max-width: 100%; width: 30%;"
               id="tswemail" name="email" size="39" type="text"><br>
             &nbsp;<br>
             <label for="tswcomments">Comments</label><br>
             &nbsp;<br>
-            <textarea rows="15" cols="45" name="comments" style="max-width: 100%;"
-
+            <textarea rows="15" cols="45" name="comments" style="max-width: 100%;"
 id="tswcomments"></textarea> <br>
             &nbsp;<br>
             <input id="tswsubmit" value="Submit" type="submit"> </form>
           <br>
           <!-- start of content column: insert your content here --></div>
         <div>
-          <div style="margin-left: 40px; text-align: left;"><br>
-          </div>
-          <div style="margin-left: 40px; text-align: center;"><br>
-          </div>
-          <div style="margin-left: 40px; text-align: center;"><br>
-          </div>
-          <div style="margin-left: 40px; text-align: center;"><br>
-          </div>
-          <div style="margin-left: 40px; text-align: center;"><br>
-          </div>
-          <div style="margin-left: 40px; text-align: center;"><br>
-          </div>
-          <div style="margin-left: 40px; text-align: center;"><br>
-          </div>
-          <div style="margin-left: 40px; text-align: center;"><br>
-          </div>
-          <div style="margin-left: 40px; text-align: center;"><br>
-          </div>
-          <div style="margin-left: 40px; text-align: center;"><br>
-          </div>
-          <div style="margin-left: 40px; text-align: center;"><br>
-          </div>
           <div style="margin-left: 40px;"><br>
           </div>
         </div>
@@ -92,20 +66,14 @@ id="tswcomments"></textarea> <br>
             Energy Keeps our World Spinning!</span></h3>
         <p style="margin-left: 40px;"><span style="font-family: Tahoma;">Keep up
             to date with our socials!</span></p>
-        <div style="margin-left: 40px;"> <a href="https://www.instagram.com/osu_cyclonecowboys/"><img
-
-              src="images/instagram%20logo.png" alt="instagram logo" style="width: 57px; height: 54px;"></a><a
-
-            href="https://www.facebook.com/profile.php?id=100090001531286"><img
-
-              src="images/facebook-logo-png-2320.png" alt="facebook logo" style="width: 107px; height: 54px;"></a><a
-
-            href="https://www.linkedin.com/company/cyclone-cowboys/people/"><img
-
+        <div style="margin-left: 40px;"> <a href="https://www.instagram.com/osu_cyclonecowboys/"><img
+              src="images/instagram%20logo.png" alt="instagram logo" style="width: 57px; height: 54px;"></a><a
+            href="https://www.facebook.com/profile.php?id=100090001531286"><img
+              src="images/facebook-logo-png-2320.png" alt="facebook logo" style="width: 107px; height: 54px;"></a><a
+            href="https://www.linkedin.com/company/cyclone-cowboys/people/"><img
               src="images/linkedin%20logo.png" alt="linkedin logo" style="width: 57px; height: 54px;"></a>
         </div>
-        <div style="text-align: center;"><a href="index.html"><img src="images/CCRoundLogo.png"
-
+        <div style="text-align: center;"><a href="index.html"><img src="images/CCRoundLogo.png"
               alt="cyclone cowboy round logo"></a></div>
         <p style="margin-left: 40px;"><br>
         </p>

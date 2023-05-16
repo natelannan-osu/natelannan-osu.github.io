@@ -292,8 +292,7 @@
           <p style="margin-left: 40px;"><span style="font-family: Tahoma;">TBD</span></p>
           <p style="margin-left: 40px;"><span style="font-family: Tahoma;"><br>
             </span></p>
-          <h4 style=" margin-left: 40px;"><span style="font-family: Tahoma;"><span
-
+          <h4 style=" margin-left: 40px;"><span style="font-family: Tahoma;"><span
                 style="font-family: Nirmala UI;">April 17, 2023 to April 21,
                 2023</span></span></h4>
           <h5 style="  margin-left: 40px;">Project Development</h5>
@@ -312,13 +311,9 @@
               Anchor design needs to be completed. Had begun the construction of
               the converter circuit and the load apparatus. </span></p>
           <h5 style=" margin-left: 40px;">Outreach</h5>
-          <p><br>
-          </p>
-          <p><br>
-          </p>
           <div style="margin-left: 40px;"> </div>
-          <p style="margin-left: 40px;"><br>
-          </p>
+        </div>
+        <div><br>
         </div>
       </div>
       <div id="tswsidecol">
@@ -337,19 +332,13 @@
         <p style="margin-left: 40px;"></p>
         <p style="margin-left: 40px;"><span style="font-family: Tahoma;">Keep up
             to date with our socials!</span></p>
-        <div style="margin-left: 40px;"><a href="https://www.instagram.com/osu_cyclonecowboys/"><img
-
-              src="images/instagram%20logo.png" alt="instagram logo" style="width: 57px; height: 54px;"></a><a
-
-            href="https://www.facebook.com/profile.php?id=100090001531286"><img
-
-              src="images/facebook-logo-png-2320.png" alt="facebook logo" style="width: 107px; height: 54px;"></a><a
-
-            href="https://www.linkedin.com/company/cyclone-cowboys/people/"><img
-
+        <div style="margin-left: 40px;"><a href="https://www.instagram.com/osu_cyclonecowboys/"><img
+              src="images/instagram%20logo.png" alt="instagram logo" style="width: 57px; height: 54px;"></a><a
+            href="https://www.facebook.com/profile.php?id=100090001531286"><img
+              src="images/facebook-logo-png-2320.png" alt="facebook logo" style="width: 107px; height: 54px;"></a><a
+            href="https://www.linkedin.com/company/cyclone-cowboys/people/"><img
               src="images/linkedin%20logo.png" alt="linkedin logo" style="width: 57px; height: 54px;"></a></div>
-        <div style="text-align: center;"><a href="index.html"><img src="images/CCRoundLogo.png"
-
+        <div style="text-align: center;"><a href="index.html"><img src="images/CCRoundLogo.png"
               alt="cyclone cowboy round logo"></a></div>
         <p style="margin-left: 40px;"><br>
         </p>

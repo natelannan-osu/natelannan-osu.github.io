@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-    <title>Learn More</title>
+    <title>Team Story</title>
     <meta name="generator" content="thesitewizard.com's Layout Wizard 3.0.1">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" media="all" href="styles.css">
@@ -29,53 +29,62 @@
         <p>&nbsp;<a href="index.html"><img src="images/CCRoundLogo.png" alt="cyclone cowboy round logo"></a></p>
         <!-- end of header section: insert your logo, etc, above this line --> </div>
       <div id="tswcontent">
-        <div><br>
-          <!-- start of content column: insert your content here --></div>
         <div style="text-align: center;">
-          <h3><span style="font-family: Nirmala UI;">Learn More!</span></h3>
+          <h4>Team Story</h4>
         </div>
-        <br>
         <div style="margin-left: 40px;">
-          <h4><img src="images/BenTurbineSDExpo.jpg" alt="ben at senior design expo"
-              style="float: left; margin-right: 25px; width: 207px; height: 180px;"></h4>
-          <h4><span style="font-family: Nirmala UI;">Who we are</span></h4>
-          <p><span style="font-family: Tahoma;">We are the Cyclone Cowboys from
-              Oklahoma State University in Stillwater, Oklahoma! We are
-              interested in the future of wind energy and had created a club to
-              spread awareness of it at Oklahoma State University and in the
-              surrounding community.</span></p>
-          <span style="font-family: Tahoma;"> </span>
-          <p style="text-align: left;"><span style="font-family: Tahoma;">Originally
-              as a senior design project, the Cyclone Cowboys was opened up in
-              2022 as a club that any major and grade can join. That has lead to
-              freshmen, other engineers, and other majors getting involved in
-              wind energy. By having a diverse team, we can look at a problem
-              and have many views on how to address it. Problem solving from
-              different perspectives means having a unique solution, more in
-              depth discussion, and skills from a range of people. Having team
-              members who are proficient in everything from welding to website
-              design currently drive our success. The rigorous curriculum of OSU
-              means that students are equipped with skills, both theoretical and
-              technical. Using welding machines, CNC machines, 3D printing, and
-              other machinery skills come comfortably to students. Lastly, our
-              team is close knit, persistent, and determined enough to overcome
-              any obstacles. </span></p>
-          <p style="text-align: left;"><br>
-          </p>
-          <h4><img src="images/WestwoodPic.JPG" alt="westwood with kids" style="width: 224px; height: 150px; float: left; margin-right: 25px;"><span
-              style="font-family: Nirmala UI;">Collegiate Wind Competition (CWC)</span></h4>
-          <p><span style="font-family: Tahoma;">Seniors were interested in
-              competing in the Collegiate Wind Competition which is put on
-              yearly by the United States Department of Energy. The CWC consists
-              of the Turbine Contest, Project Development Contest, and
-              Connection Creation Contest (also known as Outreach). The
-              competition helps college students prepare for jobs in wind and
-              renewable energy industries. By learning about finance for project
-              development, how to CAD a turbine and blades, and reaching out to
-              local companies or schools to raise awareness of wind energy,
-              students learn many valuable workplace skills. It is the Cyclone
-              Cowboys first year as a competitor. We were picked along with 13
-              other schools to compete in the final phase! </span></p>
+          <h5>Team Name, institution name, city, and state&nbsp;&nbsp;&nbsp; </h5>
+          <p>Cyclone Cowboys</p>
+          <p>Oklahoma State University</p>
+          <p>Stillwater, Oklahoma</p>
+          <h5>Your faculty advisor and student lead</h5>
+          <p>Faculty Advisor: Professor Nate Lannan</p>
+          <p>Student Lead: Sahir Virani</p>
+          <h5>Why is your team participating in the CWC?</h5>
+          <p>We are participating because wind energy is a vital component to
+            the overall power supply in Oklahoma. In 2021, 40% of electricity
+            generation in the state was powered by wind energy, a figure which
+            is increasing annually (US EIA). Therefore, we want to learn about
+            how wind energy is generated and how it can be improved and
+            expanded.</p>
+          <h5>What is your vision for a clean energy future?</h5>
+          <p>We believe that individual communities should have the resources
+            and knowledge to decide what clean energy solutions work best for
+            them. Diverse communities will require a diverse array of solutions
+            based on factors such as geography, safety, and existing
+            infrastructure.</p>
+          <h5>Describe your project, objectives, and game plan.</h5>
+          <p>Our project involved designing and testing a small wind turbine,
+            planning an offshore wind farm, and developing an outreach program
+            for the group. We have selected leaders for each subsection of the
+            competition and established a project management team to make work
+            completion more efficient.</p>
+          <h5>What steps are your team taking to ensure a diverse and inclusive
+            team?</h5>
+          <p>Our team has recruited students from many different types of
+            engineering and non-engineering disciplines, giving the team a vast
+            array of areas in which members can apply their specific knowledge.
+            Cyclone Cowboys has also been formed into a campus-wide club which
+            allows for greater exposure to potential new team members who are
+            passionate about wind energy and wish to join. We plan on working
+            with the University's Division of Institutional Diversity to get
+            more students involved. </p>
+          <h5>What does your team do exceptionally well? How will you use your
+            team's strengths to your advantage in the competition?</h5>
+          <p>Our diversity is our greatest asset. Through expansive recruiting
+            and networking, we have built a large team with several different
+            majors and experience levels. This allows us the freedom to place
+            team members in areas where they are passionate and able to make the
+            greatest impact within Cyclone Cowboys. Having team members who are
+            proficient in everything from welding to website design will drive
+            our success. </p>
+          <h5>What inspired your team's name?</h5>
+          <p>The Cyclone Cowboys' name was inspired by our school, Oklahoma
+            State University, and the windy weather that the state of Oklahoma
+            is known for. Although our mascot is Pistol Pete, we are also known
+            across the nation as the Cowboys. As a final ode to the Great Plains
+            and the severe weather it is known for, we included cyclone in our
+            team's name to give another nod to wind energy in Oklahoma. </p>
         </div>
         <div><br>
           <div style="margin-left: 40px;"> </div>
